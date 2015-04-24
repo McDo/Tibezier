@@ -383,7 +383,7 @@ win.add( buttonWrapper );
 win.open();
 
 ```
-![](save.gif)
+![](save2.gif)
 
 ## Author
 
