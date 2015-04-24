@@ -285,7 +285,7 @@ Drawer.createView({
 });
 ```
 
-Get more detail about UIBezierPath from [iOS Developer Library](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIBezierPath_class/index.html#//apple_ref/occ/instm/UIBezierPath/closePath).
+Getting more details about UIBezierPath from [iOS Developer Library](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIBezierPath_class/index.html#//apple_ref/occ/instm/UIBezierPath/closePath).
 
 ## Working together with Tipop
 It's easy to anmiate bezier paths with [Tipop](https://github.com/McDo/tipop). Here is an example: 
@@ -383,7 +383,7 @@ win.add( buttonWrapper );
 win.open();
 
 ```
-<img src="./save.gif">
+![](save.gif)
 
 ## Author
 
