@@ -210,7 +210,7 @@ Drawer.createView({
 			point: [2.0, 3.0],
 		}, 
 		
-		// Appends a cubic Bézier curve to the receiver’s path.
+		// Appends a cubic Bézier curve to the path.
 		{
 			draw: 'addCurveToPoint',
 			endPoint: [4.0, 5.0],
@@ -218,7 +218,7 @@ Drawer.createView({
 			controlPoint2: [8.0, 9.0],
 		}, 
 		
-		// Appends a quadratic Bézier curve to the receiver’s path.
+		// Appends a quadratic Bézier curve to the path.
 		{
 			draw: 'addQuadCurveToPoint',
 			endPoint: [10.0, 11.0],
@@ -288,7 +288,7 @@ Drawer.createView({
 Getting more details about UIBezierPath from [iOS Developer Library](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIBezierPath_class/index.html#//apple_ref/occ/instm/UIBezierPath/closePath).
 
 ## Working together with Tipop
-It's easy to anmiate bezier paths with [Tipop](https://github.com/McDo/tipop). Here is an example: 
+It's easy to animate bezier paths with [Tipop](https://github.com/McDo/tipop). Here is an example: 
 
 ```javascript
 var Drawer = require('guy.mcdooooo.tibezier');
