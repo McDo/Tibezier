@@ -347,6 +347,9 @@ buttonWrapper.add( button );
 
 button.addEventListener('click', function() {
 	if ( !saved ) {
+		
+		saved = true;
+		
 		POP
 		.basic(label, {
 			scale: {
