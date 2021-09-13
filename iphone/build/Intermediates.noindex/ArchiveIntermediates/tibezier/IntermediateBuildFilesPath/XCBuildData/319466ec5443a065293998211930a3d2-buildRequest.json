@@ -1,0 +1,81 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "9bfef8a1c61883f2cb1f0a97e13f25e0a09fb951c034171470b90f08d9b4d082"
+    }
+  ],
+  "containerPath" : "/Users/marcbender/Downloads/Tibezier-master/iphone/tibezier.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "iosmac",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Products",
+      "derivedDataPath" : "/Users/marcbender/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/marcbender/Library/Developer/Xcode/DerivedData/tibezier-ftihvvemnomjeebrmrmkyhdtfcxj/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/marcbender/Library/Developer/Xcode/DerivedData/tibezier-ftihvvemnomjeebrmrmkyhdtfcxj/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SDKROOT" : "macosx12.0",
+          "SKIP_INSTALL" : "NO",
+          "SUPPORTS_MACCATALYST" : "YES"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/InstallationBuildProductsLocation/OnDemandResources",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/BuildProductsPath/WatchKitSupport2",
+          "WATCHKIT_SUPPORT_FOLDER_PATH" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/ArchiveIntermediates/tibezier/BuildProductsPath/WatchKitSupport"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "archive",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
