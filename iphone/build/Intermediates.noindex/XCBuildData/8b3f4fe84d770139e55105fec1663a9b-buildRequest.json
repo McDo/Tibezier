@@ -1,0 +1,59 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "c5bffb2b39e55e1039979b7e4134b3bfa09fb951c034171470b90f08d9b4d082"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Products",
+      "derivedDataPath" : "/Users/marcbender/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/marcbender/Library/Developer/Xcode/DerivedData/tibezier-ftihvvemnomjeebrmrmkyhdtfcxj/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/marcbender/Library/Developer/Xcode/DerivedData/tibezier-ftihvvemnomjeebrmrmkyhdtfcxj/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/marcbender/Downloads/Tibezier-master/iphone/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone11,6",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.6",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008020-00013DA41E50003A",
+          "TARGET_DEVICE_MODEL" : "iPhone11,6",
+          "TARGET_DEVICE_OS_VERSION" : "14.6",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
